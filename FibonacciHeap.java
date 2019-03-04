@@ -3,8 +3,7 @@
  *
  * An implementation of fibonacci heap over non-negative integers.
  */
-//jonathanz1 204331375
-//ornechemia 316295161
+
 public class FibonacciHeap {
 	private HeapNode min; // points to the minimum node of the heap, which is a root
 	private int size; // number of nodes in the heap
